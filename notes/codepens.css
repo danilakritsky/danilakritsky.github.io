@@ -4,10 +4,10 @@ body {
 }
 
 nav {
-  font-size: 10px;
+  font-size: 14px;
 }
 
 ul > li {
-  margin-left: -3em;
+  margin-left: -2em;
   margin-right: 1em;
 }
