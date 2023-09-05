@@ -5,7 +5,8 @@ body {
 
 nav {
   font-size: 14px;
-  overflow-y: auto;
+  position: sticky;
+  align-self: start;
 }
 
 ul > li {
